@@ -1,0 +1,27 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.venv/
+venv/
+env/
+ENV/
+*.env
+
+# macOS
+.DS_Store
+
+# Streamlit cache
+.streamlit/
+logs/
+
+# Editors
+.vscode/
+.idea/
+
+# Python dist
+build/
+dist/
+*.egg-info/
